@@ -1,0 +1,15 @@
+{
+    "user": [
+        {
+            "loggedIn": true,
+            "email": "name@company.org",
+            "password": "encodedpassword",
+            "firstname": "fname",
+            "lastname": "lname",
+            "id": "randomgeneratedid"
+        },
+        {
+            "theme": "default"
+        }
+    ]
+}

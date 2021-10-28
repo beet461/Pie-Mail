@@ -13,13 +13,10 @@ class EmailPage extends StatefulWidget {
 class _EmailPageState extends State<EmailPage> {
   @override
   Widget build(BuildContext context) {
-    return Container(
-      child: Row(
-        children: <Widget>[
-          SideMenu(),
-        ],
-      ),
-      color: Color(0xFF292929),
+    return Row(
+      children: <Widget>[
+        SideMenu(),
+      ],
     );
   }
 }
