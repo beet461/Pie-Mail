@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:piemail/email/email.dart' as email;
 import 'package:piemail/account/account.dart' as account;
 import 'package:piemail/chat/chat.dart' as chat;
-import 'package:piemail/animations.dart';
+import 'package:piemail/style/animations.dart';
 import 'package:piemail/file_options/file_options.dart';
 
 class UserOptions {
